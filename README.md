@@ -67,7 +67,7 @@
 要在本地部署本项目的开发测试环境，你需要安装 Node.js 和 npm，然后执行以下命令：
 
 ```bash
-git clone https://github.com/spite-triangle/live2d-widget/live2d-widget.git
+git clone https://github.com/spite-triangle/live2d-widget.git
 npm install
 npm run build
 ```
